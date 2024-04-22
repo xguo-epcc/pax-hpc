@@ -15,4 +15,5 @@ Contents
    :caption: ABOUT
 
    outputs
-   
+   training
+   contact
