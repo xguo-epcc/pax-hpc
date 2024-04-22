@@ -17,3 +17,8 @@ Contents
    outputs
    training
    contact
+
+
+
+PAX is an ExCALIBUR project funded by UKRI to help prepare materials
+modelling and particle modelling codes for Exascale systems.  

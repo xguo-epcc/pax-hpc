@@ -12,7 +12,8 @@ A collection of PAX-HPC outputs
 
 ## Meetings
 
-- List
+- All-PAX meeting, Lancaster University, April 2024
+- All-PAX team calls, 6-weekly
 
 ## Miscellaneous
 
