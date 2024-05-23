@@ -10,13 +10,16 @@ A collection of PAX-HPC outputs
 
 ## Conferences
 
-- List
+- [Durham HPC Days](https://scicomp.webspace.durham.ac.uk/events/code_performance_series/durham-hpc-days-2024/) 2023 and 2024
 
 ## Meetings
 
 - All-PAX meeting, Lancaster University, April 2024
 - All-PAX team calls, 6-weekly
 
+
+
 ## Miscellaneous
 
 - List
+
