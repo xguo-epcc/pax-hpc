@@ -17,7 +17,9 @@ A collection of PAX-HPC outputs
 - All-PAX meeting, Lancaster University, April 2024
 - All-PAX team calls, 6-weekly
 
+## Related Projects
 
+- [MGHyPE](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X019497/1)
 
 ## Miscellaneous
 
