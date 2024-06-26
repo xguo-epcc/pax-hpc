@@ -4,6 +4,8 @@ A collection of PAX-HPC outputs
 
 ## Publications
 
+- [An extension of C++ with memory-centric specifications for HPC to reduce memory footprints and streamline MPI development](https://arxiv.org/abs/2406.06095), June 2024.
+
 - [SWIFT: A modern highly-parallel gravity and smoothed particle hydrodynamics solver for astrophysical and cosmological applications](https://arxiv.org/abs/2305.13380), March 2024, MNRAS.
 
 - [Compiler support for semi-manual AoS-to-SoA conversions with data views](https://arxiv.org/abs/2405.12507)
