@@ -12,12 +12,12 @@
 
 **General Training on GPU programming models and Parallel I/O, 17 - 19 January, Edinburgh**
 - General intro on GPU programming models (EPCC): [gpu_general_intro_slides](training_slides/pax-hpc-gpu-general-intro-epcc.pdf)
-- NVIDIA workshop (NVIDIA): https://github.com/openhackathons-org/nways_accelerated_programming/tree/main, nvidia_intro_slides, nvidia_keyways_slides, nvidia_programming_slides
+- NVIDIA workshop (NVIDIA): https://github.com/openhackathons-org/nways_accelerated_programming/tree/main, [nvidia_intro_slides](training_slides/NVIDIA_PAX-HPC_Intro.pdf), [nvidia_keyways_slides](training_slides/NVIDIA_PAX-HPC_KeyWays.pdf), [nvidia_programming_slides](training_slides/NVIDIA_PAX-HPC_Programming.pdf)
 - SYCL training (Codeplay): https://github.com/codeplaysoftware/syclacademy
 - Parallel I/O training (EPCC): https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19
 
 **General Training and Hackathon on Performance Analysis and Debugging, 10 - 13 June 2024, Edinburgh**
- - Intro on HPE tools (HPE): hpe_perftool_slides, hpe_debug_slides
+ - Intro on HPE tools (HPE): [hpe_perftools_slides](HPE_June10_perftools.pdf), [hpe_debug_slides](HPE_June10_debug.pdf)
  - Linaro Forge training (EPCC): https://github.com/EPCCed/linaro-training
  - 2-day hackathon
 
