@@ -17,7 +17,7 @@
 - Parallel I/O training (EPCC): https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19
 
 **General Training and Hackathon on Performance Analysis and Debugging, 10 - 13 June 2024, Edinburgh**
- - Intro on HPE tools (HPE): [hpe_perftools_slides](HPE_June10_perftools.pdf), [hpe_debug_slides](HPE_June10_debug.pdf)
+ - Intro on HPE tools (HPE): [hpe_perftools_slides](training_slides/HPE_June10_perftools.pdf), [hpe_debug_slides](training_slides/HPE_June10_debug.pdf)
  - Linaro Forge training (EPCC): https://github.com/EPCCed/linaro-training
  - 2-day hackathon
 
