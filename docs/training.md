@@ -11,7 +11,7 @@
 - Consultancy sessions / training on NVIDIA tools
 
 **General Training on GPU programming models and Parallel I/O, 17 - 19 January, Edinburgh**
-- General intro on GPU programming models (EPCC): gpu_general_intro_slides(docs/training_slides/pax-hpc-gpu-general-intro-epcc.pdf)
+- General intro on GPU programming models (EPCC): [gpu_general_intro_slides](training_slides/pax-hpc-gpu-general-intro-epcc.pdf)
 - NVIDIA workshop (NVIDIA): https://github.com/openhackathons-org/nways_accelerated_programming/tree/main, nvidia_intro_slides, nvidia_keyways_slides, nvidia_programming_slides
 - SYCL training (Codeplay): https://github.com/codeplaysoftware/syclacademy
 - Parallel I/O training (EPCC): https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19
